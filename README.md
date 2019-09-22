@@ -1,7 +1,7 @@
 #learn git  
 1.注册git账号  
 2.创建项目  
-3.git clone +连接地址（对应的项目地址）
+3.git clone +连接地址（对应的项目地址）  
 Command:  
     Git diff   查看修改内容  
     Git status    查看整个项目有没有修改  
